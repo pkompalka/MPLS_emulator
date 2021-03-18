@@ -1,0 +1,262 @@
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\bin\Debug\Utility.exe.config
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\bin\Debug\Utility.exe
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\bin\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\bin\Debug\ControlzEx.dll
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\bin\Debug\MahApps.Metro.dll
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\bin\Debug\ControlzEx.pdb
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\bin\Debug\MahApps.Metro.pdb
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\bin\Debug\MahApps.Metro.xml
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\Resources\Icons.baml
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\Utility_MarkupCompile.cache
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\Utility_MarkupCompile.lref
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\Utility.g.resources
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\Utility.exe
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\TSST pro\MPLS\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\MPLS\Utility\bin\Debug\Utility.exe.config
+C:\Users\Piotr\Desktop\MPLS\Utility\bin\Debug\Utility.exe
+C:\Users\Piotr\Desktop\MPLS\Utility\bin\Debug\Utility.pdb
+C:\Users\Piotr\Desktop\MPLS\Utility\bin\Debug\ControlzEx.dll
+C:\Users\Piotr\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.dll
+C:\Users\Piotr\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Piotr\Desktop\MPLS\Utility\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Piotr\Desktop\MPLS\Utility\bin\Debug\ControlzEx.pdb
+C:\Users\Piotr\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.pdb
+C:\Users\Piotr\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.xml
+C:\Users\Piotr\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Piotr\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\Utility.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\Resources\Icons.baml
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\Utility_MarkupCompile.cache
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\Utility_MarkupCompile.lref
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\Utility.g.resources
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\Utility.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\Utility.csproj.CopyComplete
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\Utility.exe
+C:\Users\Piotr\Desktop\MPLS\Utility\obj\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\bin\Debug\Utility.exe.config
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\bin\Debug\Utility.exe
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\bin\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\bin\Debug\ControlzEx.dll
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\bin\Debug\MahApps.Metro.dll
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\bin\Debug\ControlzEx.pdb
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\bin\Debug\MahApps.Metro.pdb
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\bin\Debug\MahApps.Metro.xml
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\Resources\Icons.baml
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\Utility_MarkupCompile.cache
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\Utility_MarkupCompile.lref
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\Utility.g.resources
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\Utility.exe
+C:\Users\Aneta\Desktop\Projekt 1.12 TSST\MPLS\MPLS\Utility\obj\Debug\Utility.pdb
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\bin\Debug\Utility.exe.config
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\bin\Debug\Utility.exe
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\bin\Debug\Utility.pdb
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\bin\Debug\ControlzEx.dll
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.dll
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\bin\Debug\ControlzEx.pdb
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.pdb
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.xml
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\Utility.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\Resources\Icons.baml
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\Utility_MarkupCompile.cache
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\Utility_MarkupCompile.lref
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\Utility.g.resources
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\Utility.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\Utility.csproj.CopyComplete
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\Utility.exe
+C:\Users\Piotr\Desktop\02.12\MPLS\Utility\obj\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\bin\Debug\Utility.exe.config
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\bin\Debug\Utility.exe
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\bin\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\bin\Debug\ControlzEx.dll
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.dll
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\bin\Debug\ControlzEx.pdb
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.pdb
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.xml
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\Resources\Icons.baml
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\Utility_MarkupCompile.cache
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\Utility_MarkupCompile.lref
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\Utility.g.resources
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\Utility.exe
+C:\Users\Aneta\Desktop\02.12 nowy\02.12\MPLS\Utility\obj\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\bin\Debug\Utility.exe.config
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\bin\Debug\Utility.exe
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\bin\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\bin\Debug\ControlzEx.dll
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.dll
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\bin\Debug\ControlzEx.pdb
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.pdb
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.xml
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\Resources\Icons.baml
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\Utility_MarkupCompile.cache
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\Utility_MarkupCompile.lref
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\Utility.g.resources
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\Utility.exe
+C:\Users\Aneta\Desktop\Nowy folder (4)\02.12\MPLS\Utility\obj\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\bin\Debug\Utility.exe.config
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\bin\Debug\Utility.exe
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\bin\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\bin\Debug\ControlzEx.dll
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\bin\Debug\MahApps.Metro.dll
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\bin\Debug\ControlzEx.pdb
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\bin\Debug\MahApps.Metro.pdb
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\bin\Debug\MahApps.Metro.xml
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\Resources\Icons.baml
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\Utility_MarkupCompile.cache
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\Utility_MarkupCompile.lref
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\Utility.g.resources
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\Utility.exe
+C:\Users\Aneta\Desktop\Wersja 1.0\MPLS\Utility\obj\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\MPLS\Utility\bin\Debug\Utility.exe.config
+C:\Users\Aneta\Desktop\MPLS\Utility\bin\Debug\Utility.exe
+C:\Users\Aneta\Desktop\MPLS\Utility\bin\Debug\Utility.pdb
+C:\Users\Aneta\Desktop\MPLS\Utility\bin\Debug\ControlzEx.dll
+C:\Users\Aneta\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.dll
+C:\Users\Aneta\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Aneta\Desktop\MPLS\Utility\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Aneta\Desktop\MPLS\Utility\bin\Debug\ControlzEx.pdb
+C:\Users\Aneta\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.pdb
+C:\Users\Aneta\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.xml
+C:\Users\Aneta\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Aneta\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\Resources\Icons.baml
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\MainWindow.g.cs
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\App.g.cs
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\Utility_MarkupCompile.cache
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\Utility_MarkupCompile.lref
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\MainWindow.baml
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\Utility.g.resources
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\Utility.exe
+C:\Users\Aneta\Desktop\MPLS\Utility\obj\Debug\Utility.pdb
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\bin\Debug\Utility.exe.config
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\bin\Debug\Utility.exe
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\bin\Debug\Utility.pdb
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\bin\Debug\ControlzEx.dll
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.dll
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\bin\Debug\ControlzEx.pdb
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.pdb
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.xml
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\Resources\Icons.baml
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\MainWindow.g.cs
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\App.g.cs
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\Utility_MarkupCompile.cache
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\Utility_MarkupCompile.lref
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\MainWindow.baml
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\Utility.g.resources
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\Utility.csproj.GenerateResource.cache
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\Utility.csproj.CopyComplete
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\Utility.exe
+C:\Users\witos\OneDrive\Desktop\MPLS\Utility\obj\Debug\Utility.pdb
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\bin\Debug\Utility.exe.config
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\bin\Debug\Utility.exe
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\bin\Debug\Utility.pdb
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\bin\Debug\ControlzEx.dll
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\bin\Debug\MahApps.Metro.dll
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\bin\Debug\ControlzEx.pdb
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\bin\Debug\MahApps.Metro.pdb
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\bin\Debug\MahApps.Metro.xml
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\Utility.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\Resources\Icons.baml
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\Utility_MarkupCompile.cache
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\Utility_MarkupCompile.lref
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\Utility.g.resources
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\Utility.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\Utility.csproj.CopyComplete
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\Utility.exe
+C:\Users\Piotr\Desktop\Projekty\MPLS emulator\Utility\obj\Debug\Utility.pdb

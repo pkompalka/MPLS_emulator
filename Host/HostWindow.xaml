@@ -1,0 +1,36 @@
+﻿<Controls:MetroWindow x:Class="Host.HostWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Host"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        ResizeMode="CanMinimize"
+        Title="MainWindow" Height="100" Width="410">
+    <Grid Margin="0,0,-0.4,0.4">
+        <TextBlock  Text="Wiadomość:" Margin="110,0,214.6,52"  />
+        <TextBlock  Text="Gdzie wysłać:"  Margin="108,41,214.6,9"  />
+        <TextBlock  Text="Okres[s]:" Margin="0,0,331.6,51" />
+        <TextBlock  Text="{Binding Path=PeriodText}" Margin="63,0,306.6,51"/>
+        <TextBox Background="White" Foreground="Black" x:Name="messageText" Margin="194,0,0.6,44" />
+        <Button x:Name="fastButton" Background="SaddleBrown" Content="0,5" Click="fastButton_Click" Margin="6,37,369.6,3"/>
+        <Button x:Name="normalButton" Background="Purple" Content="1" Click="normalButton_Click" Margin="39,37,337.6,3"/>
+        <Button x:Name="slowButton" Background="Orange" Content="5" Click="slowButton_Click" Margin="71,37,306.6,3"/>
+        <ComboBox x:Name="whereCombo" Margin="194,41,121.6,3" IsSynchronizedWithCurrentItem="False" SelectionChanged="WhereCombo_SelectionChanged"/>
+        <Button x:Name="sendButton" Width="35" Height="35" Background="Green" Click="SendButton_Click" Style="{StaticResource MetroCircleButtonStyle}" Margin="301,35,67.6,0">
+            <Rectangle Width="15" Height="15" Fill="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                <Rectangle.OpacityMask>
+                    <VisualBrush Stretch="Fill" Visual="{DynamicResource appbar_chevron_right}"/>
+                </Rectangle.OpacityMask>
+            </Rectangle>
+        </Button>
+        <Button x:Name="stopButton" Width="35" Height="35" Background="Red" Click="StopButton_Click" Style="{StaticResource MetroCircleButtonStyle}" Margin="358,35,10.6,0">
+            <Rectangle Width="20" Height="20" Fill="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                <Rectangle.OpacityMask>
+                    <VisualBrush Stretch="Fill" Visual="{DynamicResource appbar_close}"/>
+                </Rectangle.OpacityMask>
+            </Rectangle>
+        </Button>
+    </Grid>
+</Controls:MetroWindow>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CLOUD>
+
+	<cloud CLOUD_IP_ADDRESS="127.0.0.1" CLOUD_PORT="60121">
+	</cloud>
+	
+	
+	<host NAME="host1" IP_ADDRESS="192.168.1.1">
+	</host>
+	<host NAME="host2" IP_ADDRESS="192.168.1.2">
+	</host>
+	<host NAME="host3" IP_ADDRESS="192.168.1.3">
+	</host>
+	
+	<router NAME="router1" IP_ADDRESS="192.168.2.2">
+	</router>
+	<router NAME="router2" IP_ADDRESS="192.168.2.3">
+	</router>
+	<router NAME="router3" IP_ADDRESS="192.168.2.1">
+	</router>
+	<router NAME="router4" IP_ADDRESS="192.168.3.1">
+	</router>
+	<router NAME="router5" IP_ADDRESS="192.168.2.4">
+	</router>
+	
+	<connect NODE1="router1" PORT1="10122" NODE2="host1" PORT2="10111" ISWORKING="WORKING">
+	</connect>
+	<connect NODE1="router1" PORT1="10222" NODE2="router3" PORT2="30121" ISWORKING="WORKING">
+	</connect>
+	<connect NODE1="router1" PORT1="10322" NODE2="router4" PORT2="40231" ISWORKING="WORKING">
+	</connect>
+	<connect NODE1="router1" PORT1="10422" NODE2="router2" PORT2="20123" ISWORKING="WORKING">
+	</connect>
+	<connect NODE1="router3" PORT1="30221" NODE2="router4" PORT2="40131" ISWORKING="WORKING">
+	</connect>
+	<connect NODE1="router3" PORT1="30123" NODE2="host3" PORT2="30111" ISWORKING="WORKING">
+	</connect>
+	<connect NODE1="router4" PORT1="40331" NODE2="router5" PORT2="50124" ISWORKING="WORKING">
+	</connect>
+	<connect NODE1="router2" PORT1="20223" NODE2="router5" PORT2="50224" ISWORKING="WORKING">
+	</connect>
+	<connect NODE1="router5" PORT1="50324" NODE2="host2" PORT2="20112" ISWORKING="WORKING">
+	</connect>
+	
+</CLOUD>
